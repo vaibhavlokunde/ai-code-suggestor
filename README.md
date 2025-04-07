@@ -1,16 +1,22 @@
-# ai-code-suggestor README
+# AI Code Suggestor - VS Code Extension
 
-This is the README for your extension "ai-code-suggestor". After writing up a brief description, we recommend including the following sections.
+AI Code Suggestor is a Visual Studio Code extension that provides intelligent code suggestions using AI. It helps developers write code faster and more efficiently by offering context-aware completions and recommendations.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- **AI-powered code suggestions**: Get intelligent code completions based on your current context
+- **Multi-language support**: Works with various programming languages
+- **Context-aware recommendations**: Suggestions adapt to your coding style and project structure
+- **Fast and lightweight**: Minimal impact on editor performance
+- **Customizable**: Configure suggestion behavior to match your preferences
 
-For example if there is an image subfolder under your extension project workspace:
+### Example Usage
 
-\!\[feature X\]\(images/feature-x.png\)
+1. Start typing code as usual
+2. The extension will automatically provide relevant suggestions
+3. Accept suggestions using Tab or Enter key
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+> Note: The extension requires an internet connection to access AI services
 
 ## Requirements
 
